@@ -12,3 +12,5 @@ Commit works on files which are moved to staging area by "git add" command
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches help making experimental development / collaboration across multiple teams possible.
 
+How do the diagrams help you visualize the branch structure?
+Make it easy to visualize development history of new features / bug fixes.
