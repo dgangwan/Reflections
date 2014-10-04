@@ -6,3 +6,9 @@ How is the staging area different from the working directory and the repository?
 
 Staging area defines the area which contains select files which will be committed to repository
 
+How can you use the staging area to make sure you have one commit per logical change?
+Commit works on files which are moved to staging area by "git add" command
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches help making experimental development / collaboration across multiple teams possible.
+
