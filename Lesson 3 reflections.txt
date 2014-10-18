@@ -14,4 +14,6 @@ branch - same repository but commit / test new code in private individual space
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Work offline
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Will need to setup meetings or send emails to get code reviewed. It'd be harder to get reviews done.
 
