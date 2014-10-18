@@ -10,3 +10,8 @@ Describe the differences between forks, clones, and branches. When would you use
 fork - copy repository on github
 clone - copy local repository
 branch - same repository but commit / test new code in private individual space 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Work offline
+
+
